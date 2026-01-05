@@ -1,0 +1,21 @@
+customer_id,age,city,card_type
+C001,50,Boston,Platinum
+C002,36,Chicago,Gold
+C003,29,Seattle,Silver
+C004,42,Boston,Gold
+C005,40,New York,Gold
+C006,44,New York,Gold
+C007,32,San Francisco,Silver
+C008,32,San Francisco,Gold
+C009,45,Chicago,Silver
+C010,57,Boston,Gold
+C011,45,Boston,Platinum
+C012,24,San Francisco,Platinum
+C013,43,Boston,Silver
+C014,23,Boston,Platinum
+C015,45,New York,Platinum
+C016,51,San Francisco,Gold
+C017,59,Seattle,Silver
+C018,23,San Francisco,Gold
+C019,42,Seattle,Gold
+C020,54,New York,Gold
